@@ -148,3 +148,9 @@ dist/
 nbdist/
 .nb-gradle/
 
+design-patterns/build.xml
+design-patterns/design-patterns.iml
+design-patterns/manifest.mf
+design-patterns/nbproject/build-impl.xml
+design-patterns/nbproject/genfiles.properties
+design-patterns/nbproject/project.xml
