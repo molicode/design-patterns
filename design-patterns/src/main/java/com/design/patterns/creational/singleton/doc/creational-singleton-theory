@@ -1,0 +1,20 @@
+Nombre:
+    Singleton
+
+Tipo:
+    Creacional
+
+Propósito:
+    Asegurar que una clase tenga una única instancia y proporcionar un punto de acceso global a la misma. El cliente
+    llama a la función de acceso cuando se requiere una referencia a la instancia única.
+
+Aplicación:
+    Usamos el patrón Singleton cuando la aplicación necesita una, y sólo una, instancia de una clase,
+    además está instancia requiere ser accesible desde cualquier punto de la aplicación.
+
+Tipicamente para:
+    Manejar conexiones con la base de datos.
+    La clase para hacer Login.
+
+Ejemplos:
+    Gobierno
